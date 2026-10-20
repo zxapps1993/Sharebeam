@@ -8,7 +8,7 @@ Sharebeam is provided by **zxapps**. Contact: [zxapps1993@gmail.com](mailto:zxap
 
 Sharebeam's license terms are Apple's [Standard End User License Agreement (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). Please read that agreement. This page provides additional information about the app's features, sharing risks, purchases, and support. It does not replace or modify Apple's EULA or Apple's purchasing terms, create a separate liability waiver, or take away mandatory consumer or privacy rights. Where a mandatory local law gives you additional rights, those rights remain available.
 
-Information handling is explained in the [Sharebeam Privacy Policy](https://hammas1993.github.io/ShareBeam/privacy.html). That policy does not give us ownership of your screen content or authorize uses beyond those it describes.
+Information handling is explained in the [Sharebeam Privacy Policy](https://zxapps1993.github.io/Sharebeam/privacy.html). That policy does not give us ownership of your screen content or authorize uses beyond those it describes.
 
 ## 2. What the app does
 
